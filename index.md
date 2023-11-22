@@ -19,5 +19,6 @@ I would like to take a deeper look into creating a Generative AI model that is a
 
 I would have taken more time to focus on collecting useful data by scraping the web because the models I have created are decent, but they don't have ideal datasets to get trained and tested on making their performance lackluster. Creating the right datasets and features will help solve this problem.
 
-**What other techniques would you be interested in using in your project?**  
+**What other techniques would you be interested in using in your project?**
+
 I want to try to implement data distillations into my data collection so that I can provide more context for my Generative AI and Predictive AI models. This entails trying to do sentiment analysis on my data, topic modeling, event time lining, entity resolution/extraction etc. These will all take some data I currently have and enrich it so that it is more useful for my models, which in turn will let them create better predictions. 
